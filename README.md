@@ -1,1 +1,1 @@
-# test
+# Clean code and version control course
