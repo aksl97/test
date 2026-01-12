@@ -1,2 +1,2 @@
 # Clean code and version control course
-# it is a 1 credit lecture
+## it is a 1 credit lecture
